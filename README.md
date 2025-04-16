@@ -43,4 +43,4 @@ A data analysis project exploring IPL match and player statistics using Python a
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/IPL-Data-Analysis.git
+   git clone https://github.com/codewithharsha-123/IPL-Data-Analysis.git
